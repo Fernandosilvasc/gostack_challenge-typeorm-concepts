@@ -21,7 +21,7 @@
 
 This challenge is a complement of the last challenge I have done before using NodeJS and TypeScript. The link to access it will be available below.
 
-**[GoStack_challenge-typeorm-concepts](https://github.com/Fernandosilvasc/gostack-nodejs_fundamentals)**
+**[GoStack_challenge-NodeJs Fundamentals](https://github.com/Fernandosilvasc/gostack-nodejs_fundamentals)**
 
 In this challenge was necessary implement the database with TypeORM and upload files using Multer as handler!
 
